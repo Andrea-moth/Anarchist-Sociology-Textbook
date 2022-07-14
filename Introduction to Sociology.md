@@ -1,9 +1,10 @@
-## Sociology
+# Sociology
 
+The first 
 Sociology at it's heart is the study of people, institutions and the interactions between them
 
 
-# Topics
+## Topics
 
 | Socialization and Identity | Research methods | Social Control amd Institutions | Political Ideologies | Social Problems and Failings   |
 | -------------------------- | ---------------- | ------------------------------- | -------------------- | ------------------------------ |
@@ -11,5 +12,5 @@ Sociology at it's heart is the study of people, institutions and the interaction
 
 ### The History of Sociology 
 
-Sociology can be traced back to the [European Age of Enlightment](../Events and History/European Enlightenment.md), when the European Industrial Revolution changed how people lead their lives
+Sociology can be traced back to the [European Age of Enlightment](../main/Events%20and%20History/European%20Enlightenment.md), when the [European Industrial Revolution](../main/Events%20and%20History/European%20Industrial%20Revolution.md) changed how people lead their lives
   suddenly people could afford to contemplate the world around them
