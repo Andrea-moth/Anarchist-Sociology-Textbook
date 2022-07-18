@@ -22,3 +22,4 @@ Sociology can be traced back to the [European Age of Enlightment](../main/Events
 > These people were more than just sociologist, however for the purpose of this book I will focus on their soiological work
 
 * [Karl Marx](../main/People%20and%20Groups/Karl%20Marx.md)
+* Emile Durkheim
