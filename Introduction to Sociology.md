@@ -4,7 +4,7 @@
 
 Sociology at it's heart is the study of people, institutions and the interactions between them
 
-To add
+''' To Do '''
 
 ## Topics
 
@@ -13,49 +13,55 @@ To add
 | Religion                   | Types of Data    | Goverment                       | Capitalism           | Poverty and Homelessness       |
 
 
----
 
-### The History of Sociology 
+# History
 
-Modern Sociology's inspiration can be traced back to many times through out history
+There are many examples of Sociology throughout history that have influenced modern Sociology
 
 * Greece
 
-Todo
+''' To Do '''
 
 * China
 
-Todo
+''' To Do '''
 
 * Middle Eest
 
-Todo
+''' To Do '''
 
 * Africa
 
-Todo
+''' To Do '''
 
 * Modern Sociology
 
 Modern Sociology however first came about during the [European Age of Enlightment](../main/Events%20and%20History/European%20Enlightenment.md), when the [European Industrial Revolution](../main/Events%20and%20History/European%20Industrial%20Revolution.md) changed how people lead their lives
   suddenly people could afford to contemplate the world and the people around them. 
 
+''' To Do '''
 
---- 
 
-### Early sociologist [^2]
 
+## Early Modern Sociologist [^1]
 
 * [Karl Marx](../main/People%20and%20Groups/Karl%20Marx.md)
 * Emile Durkheim
+
+
+
+## Impacts of Modern Sociology
+
+''' To Do '''
+
 
 
 ---
 
 Links and references
 
-Todo
+''' To Do '''
 
-[^1]: Socrates and Plato were philosophers, however philosophy eventually split off into Sociology along with other Social Sciences
-[^2]: These people were more than just sociologist, however for the purpose of this book I will focus on their soiological work
 
+
+[^1]: These people were more than just sociologist, however for the purpose of this book I will focus on their soiological work
