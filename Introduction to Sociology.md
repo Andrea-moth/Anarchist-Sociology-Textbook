@@ -1,8 +1,8 @@
+> This textbook is told from an anarchist perspective, and while it is not explicitly anarchist it has a greater focus on leftist perspectives. If you are interested in a completely impartial look, this textbook is not for you
+
 # Sociology
 
-The first 
 Sociology at it's heart is the study of people, institutions and the interactions between them
-
 
 ## Topics
 
