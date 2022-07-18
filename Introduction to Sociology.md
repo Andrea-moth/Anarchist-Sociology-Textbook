@@ -16,11 +16,15 @@ Sociology at it's heart is the study of people, institutions and the interaction
 
 # History
 
-There are many examples of Sociology throughout history that have influenced modern Sociology
+Sociology is a Social Science that can trace it's origins and inspiration to many points during history 
 
-* Greece
+* Ancient Greek Philosophy
 
-''' To Do '''
+> While Philosophy is a different from Sociology, it has had a large influence on it and so any discussion of Sociology would be amiss without also discussing Philosophy
+
+In ancient Greece there were many Philisophical thinkers; such as Socraties and Plato, who placed a great emphasis on understanding the world around them by challenging prior knowledge
+
+The socratic method, created by Plato, was an exercise in which Plato challenged a known master of a topic and proved their beliefs to be contradictory in order to gain a greater understanding of the topic at hand
 
 * China
 
