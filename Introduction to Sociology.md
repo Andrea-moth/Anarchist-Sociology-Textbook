@@ -12,14 +12,24 @@ Sociology at it's heart is the study of people, institutions and the interaction
 
 ### The History of Sociology 
 
-Sociology can be traced back to the [European Age of Enlightment](../main/Events%20and%20History/European%20Enlightenment.md), when the [European Industrial Revolution](../main/Events%20and%20History/European%20Industrial%20Revolution.md) changed how people lead their lives
-  suddenly people could afford to contemplate the world and the people around them.
+Modern Sociology's inspiration can be traced back to many times through out history
+
+* Ancient Greek Philosophy
+
+Through out Ancient Greece philosphers explored the world around 
+hinkers such as Socrates and Plato [^1], exploring and challenging the world around them 
+
+Modern Sociology however first came about during the [European Age of Enlightment](../main/Events%20and%20History/European%20Enlightenment.md), when the [European Industrial Revolution](../main/Events%20and%20History/European%20Industrial%20Revolution.md) changed how people lead their lives
+  suddenly people could afford to contemplate the world and the people around them. 
 
 --- 
 
-### Early sociologist 
+### Early sociologist [^2]
 
-> These people were more than just sociologist, however for the purpose of this book I will focus on their soiological work
 
 * [Karl Marx](../main/People%20and%20Groups/Karl%20Marx.md)
 * Emile Durkheim
+
+
+[^1]: Socrates and Plato were philosophers, however philosophy eventually split off into Sociology along with other Social Sciences
+[^2]: These people were more than just sociologist, however for the purpose of this book I will focus on their soiological work
