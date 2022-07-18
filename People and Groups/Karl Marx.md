@@ -17,3 +17,6 @@ Then there is the middle/working class
 ## Famous works
 * The Communism manifesto
 * Das Capital 
+
+
+## Controversies and Failings
